@@ -1,5 +1,5 @@
 
-# Ufyn HotelAPI Task 3
+# Ufynd HotelAPI Task 3
 
 HotelAPI is a application built using ASP.NET (.NET Framework).
 
