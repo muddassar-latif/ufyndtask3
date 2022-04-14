@@ -6,8 +6,8 @@ HotelAPI is a application built using ASP.NET (.NET Framework).
 ### Prerequisites
 You will need the following tools:
 
-* [Visual Studio Code or Visual Studio 2019+](https://visualstudio.microsoft.com/vs/)
-* [.NET Framework 4.7]
+* [Visual Studio 2019+](https://visualstudio.microsoft.com/vs/)
+* .NET Framework 4.7
 
 ### Setup
 Follow these steps to get your development environment set up:
